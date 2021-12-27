@@ -2,6 +2,8 @@
 ! Title: block 4chan shit
 
 www.youtube.com/embed/yXQViqx6GMY?version=3&autoplay=1&controls=0&showinfo=0&modestbranding=1&rel=0&iv_load_policy=3&loop=1&playlist=yXQViqx6GMY
-s.4cdn.org/js/snow.js$important
+s.4cdn.org/js/snow.js
+/js/snow.js
+/snow.js
 
 !
